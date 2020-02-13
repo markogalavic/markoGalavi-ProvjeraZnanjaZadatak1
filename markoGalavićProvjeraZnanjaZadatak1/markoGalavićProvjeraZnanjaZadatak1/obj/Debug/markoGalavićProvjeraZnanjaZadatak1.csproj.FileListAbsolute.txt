@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\bin\Debug\markoGalavićProvjeraZnanjaZadatak1.exe.config
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\bin\Debug\markoGalavićProvjeraZnanjaZadatak1.exe
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\bin\Debug\markoGalavićProvjeraZnanjaZadatak1.pdb
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\obj\Debug\markoGalavićProvjeraZnanjaZadatak1.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\obj\Debug\markoGalavićProvjeraZnanjaZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\obj\Debug\markoGalavićProvjeraZnanjaZadatak1.exe
+C:\Users\3.D\source\repos\markoGalavićProvjeraZnanjaZadatak1\markoGalavićProvjeraZnanjaZadatak1\obj\Debug\markoGalavićProvjeraZnanjaZadatak1.pdb
